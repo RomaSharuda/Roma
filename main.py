@@ -44,3 +44,4 @@ for i in range(topMax):
 even_nums, odd_nums = split_even_odd(stack)
 print("\nПарні числа: ", even_nums)
 print("Непарні числа:", odd_nums)
+
